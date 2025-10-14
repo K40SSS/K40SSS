@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Oscar 👋
 
-<!--
-**K40SSS/K40SSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **About Me**
+- 🔭 I’m currently learning **Python, Django, and web development**
+- 📊 I love exploring **mathematics, physics, and economics**
+- 🛠️ I enjoy troubleshooting and building projects from the ground up
+- 🌱 Always curious, always learning
 
-Here are some ideas to get you started:
+💻 **Tech Interests**
+- Python (Pandas, NumPy, Matplotlib, requests, BeautifulSoup)
+- Web frameworks (Django)
+- Data analysis & problem solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Current Project**
+- Building a **Newegg Price Tracker** to practice Python, scraping, and automation
+
+📫 **How to reach me**
+- https://www.linkedin.com/in/oscar-zhao-447938332/
+- zhaoj274@mcmaster.ca
+
