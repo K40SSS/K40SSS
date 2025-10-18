@@ -2,7 +2,7 @@
 
 🎯 **About Me**
 - 🔭 I’m currently learning **Python, Django, and web development**
-- 📊 I love exploring **mathematics, physics, and economics**
+- 📊 I love learning about **mathematics, physics, and economics**
 - 🛠️ I enjoy troubleshooting and building projects from the ground up
 - 🌱 Always curious, always learning
 
