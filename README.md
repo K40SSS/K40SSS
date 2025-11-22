@@ -13,9 +13,10 @@
 
 🚀 **Current Projects**
 - Building an ***Automated Waste Sorting Device*** and ***Drone*** as a member of *McMaster IEEE Arduino Team*
+- Building a ***Smart Doorbell*** as a member of *McMaster IEEE Raspberry Pi Team*
 - Building a ***Newegg Price Tracker*** to practice Python, scraping, and automation (Personal Project)
 
 📫 **How to reach me**
-- https://www.linkedin.com/in/oscar-zhao-447938332/
+- https://www.linkedin.com/in/zhaooscar
 - zhaoj274@mcmaster.ca
 
