@@ -1,14 +1,14 @@
 # Hi there, I'm Oscar 👋
 
 🎯 **About Me**
-- 🔭 I’m currently learning ***Python, Flask, and Web Development***
+- 🔭 I’m currently learning ***Python, C++, and Circuit Design***
 - 📊 Aside from Software Development, I love learning about **mathematics, physics, and economics**
 - 🛠️ I enjoy troubleshooting and building projects from the ground up
 - 🌱 Always curious, always learning
 
 💻 **Tech Interests**
-- Python (Pandas, NumPy, Matplotlib, requests, BeautifulSoup)
-- Web frameworks (Flask)
+- Python Development
+- Embedded Systems
 - Data analysis & problem solving
 
 🚀 **Current Projects**
