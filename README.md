@@ -1,22 +1,26 @@
-# Hi there, I'm Oscar 👋
+# Hi, I'm Oscar Zhao
 
-🎯 **About Me**
-- 🔭 I’m currently learning ***Python, C++, and Circuit Design***
-- 📊 Aside from Software Development, I love learning about **mathematics, physics, and economics**
-- 🛠️ I enjoy troubleshooting and building projects from the ground up
-- 🌱 Always curious, always learning
+I'm an Engineering student at McMaster University with a deep interest in technology ranging from full stack development to embedded systems. I thrive in fast-paced environments — whether it's hackathons, team builds, or solo prototypes — and I love turning ideas into functional products.
 
-💻 **Tech Interests**
-- Python Development
-- Embedded Systems
-- Data analysis & problem solving
+---
 
-🚀 **Current Projects**
-- Building an ***Automated Waste Sorting Device*** and ***Drone*** as a member of *McMaster IEEE Arduino Team*
-- Building a ***Smart Doorbell*** as a member of *McMaster IEEE Raspberry Pi Team*
-- Building a ***Newegg Price Tracker*** to practice Python, scraping, and automation (Personal Project)
+## 🧠 Interests & Strengths
+- Backend development with Python, FastAPI, Flask, and PostgreSQL
+- Embedded systems using Raspberry Pi and Arduino
+- Full-stack web apps with clean architecture and real-time features
+- Troubleshooting, debugging, and rapid prototyping
+- Learning across disciplines: software, hardware, math, and systems thinking
 
-📫 **How to reach me**
-- https://www.linkedin.com/in/zhaooscar
-- zhaoj274@mcmaster.ca
+---
 
+## 🛠️ Engineering Projects
+- **Thrd Place** — full-stack study group platform built at DeltaHacks 12 with FastAPI + Supabase  
+- **Smart Doorbell System (IEEE McMaster)** — Raspberry Pi project integrating CNN-based facial recognition and actuator control  
+- **Automated Waste Sorting Device (IEEE McMaster)** — Arduino-based system with sensor-driven classification and mechanical actuation  
+
+---
+
+## 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/zhaooscar)  
+- [GitHub](https://github.com/K40SSS)   
+- Email: zhaoj274@mcmaster.ca
