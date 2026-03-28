@@ -4,9 +4,9 @@ I'm an engineering student at McMaster University interested in building reliabl
 
 Right now I'm:
 
+* Building the McMaster Blueprint chapter as co-founder and co-president
 * Developing the CAN-SBX mission website with McMaster Advanced Space Systems
 * Working on embedded systems projects with Raspberry Pi and computer vision
-* Building random projects I find interesting
 
 I am always open to opportunities where I can learn and work on cool projects! 
 
