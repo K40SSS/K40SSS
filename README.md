@@ -1,6 +1,6 @@
 # Hi, I'm Oscar Zhao
 
-I'm an engineering student at McMaster University interested in building reliable systems and full-stack applications.
+I'm a Software Engineering + Management student at McMaster University interested in building reliable systems and full-stack applications.
 
 Right now I'm:
 
